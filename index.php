@@ -57,6 +57,7 @@
                         yaxis: {
                             renderer: $.jqplot.CategoryAxisRenderer
                             // added comment here
+                            // comment ni lady
                         }
                     }
                 });
