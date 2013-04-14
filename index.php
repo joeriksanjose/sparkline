@@ -56,6 +56,7 @@
                     axes: {
                         yaxis: {
                             renderer: $.jqplot.CategoryAxisRenderer
+                            // added comment here
                         }
                     }
                 });
